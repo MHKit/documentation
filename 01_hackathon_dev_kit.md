@@ -110,3 +110,19 @@ non la techno :)
 | Module permettant d'interfacer avec le myo directement sur le bras. Le temps de dev dépend de ce que je trouve de viable en open source.                                                                                                                                                                                           | 10 - 30 hrs  |
 | Module permettant l'utilisation des capteurs open sources (nom ?)                                                                                                                                                                                                                                                                  | 5 - 15 hrs   |
 | _Total_                                                                                                                                                                                                                                                                                                                                   | 35 - 80 hrs     |
+
+### Commande matériel
+
+- Bras openbionics x1
+- capteur pression pour les doigts
+- vibreur type portable - retour sur le bras
+- capteur de temperature - indication pour l'utilisateur
+- leds multicolor
+- clef usb 4g + sim
+- accelero
+- magneto
+- gyro
+- barometer
+- myoware x 4
+- capteur de lumière
+- sonar
